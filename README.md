@@ -16,3 +16,22 @@ The resource usage decreases dramatically.
 
 ![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20222944.png?raw=true)
 
+## Task 2
+
+We implement a bad ($O(n^3)$) and a good ($O(n)$) algorithm for the maximum subarray sum problem.
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20223325.png?raw=true)
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20223332.png?raw=true)
+
+Resource usage of the bad algorithm:
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20222934.png?raw=true)
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20222924.png?raw=true)
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20222956.png?raw=true)
+
+Memory usage of the good/linear algorithm (it uses so little resources, YourKit does not display charts and diagrams of the computation):
+
+![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20223051.png?raw=true)
