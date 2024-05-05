@@ -26,9 +26,9 @@ public class JavaCup {
         ArrayList a = new ArrayList();
         for (int i = 0; i < 10000; i++)
         {
-            for (int j = 0; j < 20000; j++) {
-                a.add(i + j);
-            }
+//            for (int j = 0; j < 20000; j++) {
+                a.add(i);
+//            }
         }
     }
 }
