@@ -1,5 +1,14 @@
 # SE-Lab-2024-HW5
 
+
+Kanban Board
+
+![Screenshot from 2024-05-05 06-45-42](https://github.com/kiarashk8128/SE-Lab-2024-HW5/assets/82291200/61c07ba4-ebd1-4acc-8698-38fb14e71727)
+
+![Screenshot from 2024-05-05 06-45-53](https://github.com/kiarashk8128/SE-Lab-2024-HW5/assets/82291200/2cf871f5-5c56-417b-a102-bbefa6a922d9)
+
+
+
 ## Task 1
 
 We noticed that the computation took so long and consumed a lot of CPU power.
