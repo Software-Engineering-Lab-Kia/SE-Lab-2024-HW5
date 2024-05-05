@@ -18,7 +18,7 @@ The resource usage decreases dramatically.
 
 ## Task 2
 
-We implement a bad ($O(n^3)$) and a good ($O(n)$) algorithm for the maximum subarray sum problem.
+We implement a bad $(O(n^3))$ and a good $(O(n))$ algorithm for the maximum subarray sum problem.
 
 ![](https://github.com/kiarashk8128/SE-Lab-2024-HW5/blob/main/images/Screenshot%202024-05-04%20223325.png?raw=true)
 
