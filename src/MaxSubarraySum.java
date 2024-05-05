@@ -47,7 +47,8 @@ public class MaxSubarraySum {
 
     public static void main(String[] args) {
         int[] randomNumbers = generateRandomArray(10000, 10000);
-        System.out.print(badMaxSubarraySum(randomNumbers));
+//        System.out.print(badMaxSubarraySum(randomNumbers));
+        System.out.print(goodMaxSubarraySum(randomNumbers));
     }
 
 
